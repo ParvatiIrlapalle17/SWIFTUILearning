@@ -87,6 +87,13 @@
 			path = model;
 			sourceTree = "<group>";
 		};
+		181CBA982C8889D1001DF421 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
 		185FD7EB2C7C8C7700719DB4 = {
 			isa = PBXGroup;
 			children = (
@@ -110,6 +117,7 @@
 		185FD7F62C7C8C7700719DB4 /* SWIFTUIDemos */ = {
 			isa = PBXGroup;
 			children = (
+				181CBA982C8889D1001DF421 /* Navigation */,
 				185FD8272C7C927800719DB4 /* List */,
 				185FD8242C7C8EB000719DB4 /* Display Images */,
 				185FD8232C7C8CF600719DB4 /* BasicDeatils */,

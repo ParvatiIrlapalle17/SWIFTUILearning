@@ -6,7 +6,7 @@
 //
 
 import Foundation
-struct Hike:Identifiable{
+struct Hike:Identifiable,Hashable{
     var id = UUID()
     var name : String
     var image: String
